@@ -63,7 +63,7 @@ Engineers, ML practitioners, and architects use it to bridge the gap between the
 ### 🎓 Academic Background
 
 - **M.Eng., Computer Engineering**  
-  *Dartmouth College* (in progress)
+  *Dartmouth College*
 
 - **MBA, General Management**  
   *Cornell University* (in progress)
