@@ -8,20 +8,22 @@
 </p>
 
 <p align="center">
-  <a href="https://mmostagirbhuiyan.com">🌐 Concept</a> •
-  <a href="https://scholar.google.com/citations?user=RYJK2CcAAAAJ&hl=en">📖 Research</a> •
-  <a href="https://medium.com/@mmostagirbhuiyan">✍️ Technical Writing</a> •
-  <a href="https://podcasts.apple.com/us/podcast/the-practical-ai-digest/id1817015122">🎙️ Podcast</a>
+  <a href="https://mmostagirbhuiyan.com">Concept</a> &nbsp;|&nbsp;
+  <a href="https://scholar.google.com/citations?user=RYJK2CcAAAAJ&hl=en">Research</a> &nbsp;|&nbsp;
+  <a href="https://medium.com/@mmostagirbhuiyan">Writing</a> &nbsp;|&nbsp;
+  <a href="https://podcasts.apple.com/us/podcast/the-practical-ai-digest/id1817015122">Podcast</a>
 </p>
 
 <div align="center">
-  <img src="https://algora.io/api/contribution-graph/mmostagirbhuiyan?theme=dark" alt="Engineering Velocity" width="800" />
+  <a href="https://algora.io/profile/mmostagirbhuiyan">
+    <img src="https://algora.io/og/user/mmostagirbhuiyan" alt="Engineering Velocity" width="850" />
+  </a>
 </div>
 <br>
 
 ---
 
-### ⚡ Operational Doctrine
+### Operational Doctrine
 
 My work focuses on the intersection of **hardware constraints**, **economic governance**, and **reliability**.
 
@@ -34,26 +36,26 @@ My work focuses on the intersection of **hardware constraints**, **economic gove
 
 ---
 
-### 📜 Patents & Publications
+### Patents & Publications
 
-- **[Micro-Containerized CPU Architecture](https://doi.org/10.36227/techrxiv.171617385.50532539/v1)** *(Patent Pending)*
+- **Micro-Containerized CPU Architecture** *(Patent Pending)*
   *Orchestrating sub-core efficiency for AI workloads on standard compute.*
-- **[Retrieval-Native Language Models](https://doi.org/10.36227/techrxiv.174494725.56070193/v1)**
+- **Retrieval-Native Language Models**
   *Extending context windows via vector-native memory routing.*
-- **[The Illusion of Boundless AI](https://doi.org/10.36227/techrxiv.171742375.53309794/v1)**
+- **The Illusion of Boundless AI**
   *Analyzing architectural ceilings in transformer scaling.*
 
 ---
 
-### 🏗️ Active Development
+### Active Development
 
-- **CertAxiom (Proprietary)**: A vertically integrated SaaS platform digitizing regulatory compliance workflows. *Stack: Next.js, Fastify, Row-Level Security, multi-tenant architecture.*
+- **Stealth Vertical SaaS (Proprietary)**: A vertically integrated platform digitizing federal compliance workflows. *Stack: Next.js, Fastify, Row-Level Security, multi-tenant architecture.*
 - **FPGA Inference Engine**: Speculative execution pipelines for low-precision quantization (INT4/INT8).
 - **Probabilistic Verification**: Integrating Bayesian uncertainty quantification into CI/CD decision trees.
 
 ---
 
-### 🎓 Foundation
+### Foundation
 
 - **M.Eng., Computer Engineering** | *Dartmouth College*
 - **MBA, General Management** | *Cornell University*
