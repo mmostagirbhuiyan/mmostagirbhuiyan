@@ -57,7 +57,7 @@ My work focuses on the intersection of **hardware constraints**, **economic gove
 
 ### Foundation
 
-- **M.Eng., Computer Engineering** | *Dartmouth College*
+- **M.Eng., Electrical & Computer Engineering** | *Dartmouth College*
 - **MBA, General Management** | *Cornell University*
 - **B.S., Software Engineering** | *The Pennsylvania State University*
 
