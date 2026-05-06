@@ -3,8 +3,7 @@
   <b>Engineering Leader · Architect · Researcher</b>
 </p>
 <p align="center">
-  <em>Cloud platforms, AI infrastructure, and enterprise systems<br>
-  for regulated, high-stakes environments.</em>
+  <em>Cloud platforms, AI infrastructure, and enterprise systems for regulated, high-stakes environments.</em>
 </p>
 
 <p align="center">
