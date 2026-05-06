@@ -38,9 +38,9 @@
 
 - **Micro-Containerized CPU Architecture** (Patent Pending, USPTO App. 19/262,056)
   Orchestrating sub-core efficiency for AI workloads on standard compute.
-- **Retrieval-Native Language Models with Bayesian Attention** (Preprint, 2025)
+- **Retrieval-Native Language Models with Bayesian Attention** (TechRxiv, 2025)
   Extending context windows via vector-native memory routing.
-- **Limitations and Ethics of AI Systems** (Preprint, 2024)
+- **Limitations and Ethics of AI Systems** (TechRxiv, 2024)
   Analyzing architectural ceilings in transformer scaling.
 - **Aviation Climate Adaptation under Compound Risk** (EarthArXiv, 2025)
   Quantifying cascading infrastructure failure in aviation networks.
