@@ -48,7 +48,7 @@
 
 ### Active Projects
 
-- **Enterprise SaaS (Stealth):** Vertically integrated platform digitizing federal compliance workflows. 60+ schema-driven forms, multi-tenant architecture, visual form builder, REST API. In production.
+- **Enterprise SaaS (Stealth):** Schema-driven platform for federal compliance workflows. Multi-tenant architecture, visual form builder, REST API.
 - **[LocalRedact](https://redact.mmostagirbhuiyan.com):** Browser-native AI document redaction. PII detection via WebGPU. Zero uploads, zero servers.
 - **[The Practical AI Digest](https://podcasts.apple.com/us/podcast/the-practical-ai-digest/id1817015122):** Weekly podcast breaking down applied AI for practitioners.
 
