@@ -14,6 +14,13 @@
   <a href="https://podcasts.apple.com/us/podcast/the-practical-ai-digest/id1817015122">Podcast</a>
 </p>
 
+<div align="center">
+  <a href="https://algora.io/profile/mmostagirbhuiyan">
+    <img src="https://algora.io/og/user/mmostagirbhuiyan" alt="Engineering Velocity" width="850" />
+  </a>
+</div>
+<br>
+
 ---
 
 ### What I Build
