@@ -14,8 +14,8 @@
 </p>
 
 <div align="center">
-  <a href="https://algora.io/profile/mmostagirbhuiyan">
-    <img src="https://algora.io/og/user/mmostagirbhuiyan" alt="Engineering Velocity" width="850" />
+  <a href="https://github.com/mmostagirbhuiyan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmostagirbhuiyan&theme=transparent&hide_border=true&ring=3b82f6&fire=3b82f6&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="GitHub Streak" width="850" />
   </a>
 </div>
 <br>
