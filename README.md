@@ -15,6 +15,7 @@
 
 <div align="center">
   <a href="https://algora.io/profile/mmostagirbhuiyan">
+    <img src="https://algora.io/og/user/mmostagirbhuiyan" alt="Engineering Velocity" width="850" />
   </a>
 </div>
 <br>
