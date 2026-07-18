@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://algora.io/profile/mmostagirbhuiyan">
-    <img src="[https://algora.io/og/user/mmostagirbhuiyan](https://avatars.githubusercontent.com/u/29800887?v=4)" alt="Engineering Velocity" width="850" />
+    <img src="https://avatars.githubusercontent.com/u/29800887?v=4" alt="Engineering Velocity" width="850" />
   </a>
 </div>
 <br>
